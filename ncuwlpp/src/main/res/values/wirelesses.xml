@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wirelesses">
+        <item>NCUWL</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCUWLLoginer</item>
+        <item>TANetRoaming</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCUWLLoginer</item>
+        <item>NCU-CSIE</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCU_CSIELoginer</item>
+        <item>NCU-CSIE-5G</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCU_CSIELoginer</item>
+        <item>NCU-CSIE 5GHz</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCU_CSIELoginer</item>
+        <item>NCUCE</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCUCELoginer</item>
+        <item>SMC</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCUCELoginer</item>
+        <item>LIT</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.LITLoginer</item>
+        <item>NCTU-Guest</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCTUGuestLoginer</item>
+        <item>NCTU-Wireless</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NCTUWirelessLoginer</item>
+        <item>NTU</item>
+        <item>tw.edu.ncu.nos.ncuwlpp.wirelessloginer.NTULoginer</item>
+    </string-array>
+</resources>

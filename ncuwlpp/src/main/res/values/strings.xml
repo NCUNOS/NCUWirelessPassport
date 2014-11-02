@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NCU Wireless Passport</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="other">Other…</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved. Re-checking login session.</string>
+
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+    <string name="connected_to">%s Connected</string>
+
+    <string name="login_checking">Checking login session</string>
+    <string name="login_unsupported_in">Your account is unsupported in %s.</string>
+    <string name="login_logged">Logged in</string>
+    <string name="login_logging">Logging in</string>
+    <string name="login_failed">Failed. Please check your information.</string>
+
+</resources>
